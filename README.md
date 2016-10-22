@@ -1,3 +1,6 @@
+NOTE: The code will not run unless you give it the credentials like Account Number, Access Token, UserID and Password.
+You can create a test forex account and ask the customer service for this credentials.
+
 # forex-automated-trading
 A simple Moving Average strategy for applying to Forex Markets
 
