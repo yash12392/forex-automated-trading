@@ -11,5 +11,6 @@ It was developed just for testing purposes and is not used commercially also by 
 
 All the code is tested on a test account provided by Oanda (A Leader in automated forex trading with open APIs)
 They have a fairly good documentation for using their Rest API.
+https://www.oanda.com/
 
 Have a good time seeing the magic of Automation.
