@@ -16,6 +16,8 @@ All the code is tested on a test account provided by Oanda (A Leader in automate
 They have a fairly good documentation for using their Rest API.
 https://www.oanda.com/
 
+I have used Pickle Module to store the credentials in the code. Obviously who would you want to see your userID, Password and other imp stuff, you can simple plug in those details if you are not interested in using pickle.
+
 Have a good time seeing the magic of Automation.
 
 To access the code in editing mode, you need to open it in the iPython notebook here: http://nbviewer.jupyter.org/
